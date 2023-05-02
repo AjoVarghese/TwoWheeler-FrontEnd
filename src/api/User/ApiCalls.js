@@ -1,5 +1,5 @@
 import axios from "axios";
-const API = axios.create({ baseURL: "https://twowheeler.online/api/user" });
+const API = axios.create({ baseURL: "https://twowheeler-api.onrender.com/api/user" });
 
 const config = {
   headers: {
