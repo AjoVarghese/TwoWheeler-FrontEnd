@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.8",
     "@hookform/resolvers": "^3.0.0",
     "@mantine/core": "^6.0.2",
     "@mantine/ds": "^6.0.2",
